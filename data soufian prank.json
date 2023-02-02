@@ -46,37 +46,41 @@
 
      
 
-      "banner_id_1":"R-M-2161946-1",
-      "interstitial_id_1":"R-M-2161946-3",
-      "reward_id_1":"R-M-2161946-4",
+      "banner_id_1":"R-M-2177472-1",
+      "interstitial_id_1":"R-M-2177472-3",
+      "reward_id_1":"R-M-2177472-4",
       "mrec_id_1":"ca-app-pub-3940256099942544/2247696110",
-      "native_id_1":"R-M-2161946-2",
+      "native_id_1":"R-M-2177472-2",
     
 
-      "banner_id_2":"R-M-2161946-1",
-      "interstitial_id_2":"R-M-2161946-3",
-      "reward_id_2":"R-M-2161946-4",
+      "banner_id_2":"R-M-2177472-1",
+      "interstitial_id_2":"R-M-2177472-3",
+      "reward_id_2":"R-M-2177472-4",
       "mrec_id_2":"ca-app-pub-3940256099942544/2247696110",
-      "native_id_2":"R-M-2161946-2",
+      "native_id_2":"R-M-2177472-2",
     
-      "banner_id_3":"R-M-2161946-1",
-      "interstitial_id_3":"R-M-2161946-3",
-      "reward_id_3":"R-M-2161946-4",
+    
+      "banner_id_3":"R-M-2177472-1",
+      "interstitial_id_3":"R-M-2177472-3",
+      "reward_id_3":"R-M-2177472-4",
       "mrec_id_3":"ca-app-pub-3940256099942544/2247696110",
-      "native_id_3":"R-M-2161946-2",
+      "native_id_3":"R-M-2177472-2",
     
-      "banner_id_4":"R-M-2161946-1",
-      "interstitial_id_4":"R-M-2161946-3",
-      "reward_id_4":"R-M-2161946-4",
+    
+      "banner_id_4":"R-M-2177472-1",
+      "interstitial_id_4":"R-M-2177472-3",
+      "reward_id_4":"R-M-2177472-4",
       "mrec_id_4":"ca-app-pub-3940256099942544/2247696110",
-      "native_id_4":"R-M-2161946-2",
+      "native_id_4":"R-M-2177472-2",
+    
     
 
-     "banner_id_5":"R-M-2161946-1",
-      "interstitial_id_5":"R-M-2161946-3",
-      "reward_id_5":"R-M-2161946-4",
+    "banner_id_5":"R-M-2177472-1",
+      "interstitial_id_5":"R-M-2177472-3",
+      "reward_id_5":"R-M-2177472-4",
       "mrec_id_5":"ca-app-pub-3940256099942544/2247696110",
-      "native_id_5":"R-M-2161946-2"
+      "native_id_5":"R-M-2177472-2",
+    
     
   
     },
